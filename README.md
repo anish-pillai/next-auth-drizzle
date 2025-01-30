@@ -5,6 +5,9 @@ Login Page:
 
 http://localhost:3000/api/auth/signin
 
+Created from Tutorial in https://codevoweb.com/setting-up-drizzle-orm-with-nextauth-in-nextjs-14/#google_vignette
+
+
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
